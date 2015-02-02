@@ -18,7 +18,7 @@ The app apk of this project is TravelExpenseTracker.apk
 
 There is a video presentation of the project in VideoDemo folder.
 
-There is a UML_diagram.dia file that using UML diagram demonstrate the stracture of the design.
+There is a UML_diagram.dia file in the doc dictionary that using UML diagram demonstrate the stracture of the design.
 
 # License
 
