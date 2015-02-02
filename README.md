@@ -16,6 +16,8 @@ The project has following features:
 
 The app apk of this project is CMPUT_301Assignment1.apk
 
+There is a video presentation of the project in VideoDemo folder.
+
 # License
 
 Copyright 2015 Tianqi Xiao
