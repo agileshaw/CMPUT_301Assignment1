@@ -14,7 +14,7 @@ The project has following features:
   list the expense items for a claim; 
   show total currency amounts for the expenses of a claim; 
 
-The app apk of this project is CMPUT_301Assignment1.apk
+The app apk of this project is TravelExpenseTracker.apk
 
 There is a video presentation of the project in VideoDemo folder.
 
