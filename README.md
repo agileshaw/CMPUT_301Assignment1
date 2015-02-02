@@ -1,4 +1,4 @@
-# CMPUT_301Assignment1: Travel Expense Tracking Application
+# CMPUT_301Assignment1: Travel Expense Tracker
 
 The project is a simple and basic travel expense tracking application. For each travel claim, the application record expense items.
 
