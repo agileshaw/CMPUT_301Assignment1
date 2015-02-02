@@ -1,4 +1,4 @@
-# CMPUT_301Assignment1
+# CMPUT_301Assignment1: Travel Expense Tracking Application
 
 The project is a simple and basic travel expense tracking application. For each travel claim, the application record expense items.
 
@@ -14,3 +14,7 @@ The project has following features:
   show total currency amounts for the expenses of a claim; 
 
 The app apk of this project is CMPUT_301Assignment1.apk
+
+# License
+
+Copyright 2015 Tianqi Xiao
